@@ -19,3 +19,11 @@ if (name === l_name) {
 } else {
     console.log(false); // This will be printed
 }
+
+//string concation using + operator
+let fName = "Priya"
+let lName = "Priya"
+
+console.log(`Good moring ${fName+lName} ...! Hope you are doing well.`)
+
+
